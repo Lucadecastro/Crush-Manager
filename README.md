@@ -1,4 +1,4 @@
-# Store Manager
+# Crush Manager
 
 ### Descrição:
 
