@@ -2,7 +2,7 @@
 
 ### Descrição:
 
-API de Controle de Crushes.
+API para Aplicativo de Relacionamento.
 
 ### Comandos para utilizar:
 
